@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: '/private/', // If you ever add a private folder
     },
-    sitemap: 'https://chioma.vercel.app/sitemap.xml',
+    sitemap: 'https://chioma-emmanuella.vercel.app/sitemap.xml',
   }
 }

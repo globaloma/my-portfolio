@@ -21,7 +21,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://chioma.vercel.app"),
+  metadataBase: new URL("https://chioma-emmanuella.vercel.app"),
   title: {
     default: "Chioma Emmanuella | Full-Stack Developer",
     template: "%s | Chioma Emmanuella",
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     title: "Chioma Emmanuella | Full-Stack Developer",
     description:
       "Portfolio of Chioma Emmanuella, a full-stack developer building AI-powered applications and modern web experiences.",
-    url: "https://chioma.vercel.app",
+    url: "https://chioma-emmanuella.vercel.app",
     siteName: "Chioma Emmanuella Portfolio",
     images: [
       {
@@ -71,7 +71,6 @@ export const metadata: Metadata = {
     icon: "/favicon.ico",
   },
 };
-
 
 export default function RootLayout({
   children,

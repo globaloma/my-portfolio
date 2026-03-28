@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next'
 import { projects } from '@/lib/projects'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://chioma.vercel.app'
+  const baseUrl = 'https://chioma-emmanuella.vercel.app'
 
   // Standard pages
   const routes = ['', '/about', '/projects', '/contact'].map((route) => ({
