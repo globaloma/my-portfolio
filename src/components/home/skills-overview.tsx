@@ -8,22 +8,32 @@ const skillGroups = [
   {
     title: "Frontend",
     description: "Building responsive experiences with modern frameworks.",
-    skills: ["Next.js", "React", "Tailwind CSS", "TypeScript"],
+    skills: ["Next.js", "React", "Tailwind CSS", "TypeScript", "Shadcn UI", "Chrome Dev Tools", "HTML", "CSS", "Javascript"],
   },
   {
     title: "Backend",
     description: "Designing reliable APIs and robust system logic.",
-    skills: ["Flask", "REST APIs", "PostgreSQL"],
+    skills: ["Python/Flask", "REST APIs", "PostgreSQL", "SQL", "SQLlite", "DSA", "System Design"],
+  },
+  {
+    title: "Data Cleansing and Analysis",
+    description: "Working with data to train AI models",
+    skills: [ "Data Analysis", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Kaggle" ],
   },
   {
     title: "AI / ML",
-    description: "Applying intelligent systems to solve practical problems.",
-    skills: ["Whisper", "NLP", "scikit-learn"],
+    description: "Building AI models and Integrating them into web apps.",
+    skills: ["Whisper", "NLP", "scikit-learn","Machine Learning", "Hugging Face" ],
   },
   {
     title: "Tools",
     description: "Managing code, deployment, and infrastructure efficiently.",
-    skills: ["Git", "Supabase", "Render", "Vercel"],
+    skills: ["Git", "Supabase", "Render", "Vercel", "Github", "CLI", "Linux Commands", "VS Code", "Postman", "Figma", ],
+  },
+  {
+    title: "Soft skills",
+    description: "Effective communication, teamwork, and problem-solving.",
+    skills: ["Communication", "Teamwork", "Problem-solving", "Adaptability", "Time management", "Collaboration", "Critical thinking", "Creativity", "Empathy","Teaching","Leadership"],
   },
 ];
 
