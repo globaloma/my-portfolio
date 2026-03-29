@@ -3,10 +3,10 @@ export const aboutData = {
     eyebrow: "About Me",
     title: "I’m a developer who loves building useful, thoughtful digital experiences.",
     intro:
-      "I’m Chioma Emmanuella — a full-stack developer with strong frontend interest and a growing focus on AI-powered systems. I care about building software that solves real problems and feels good to use.",
+      "I’m Chioma Emmanuella. I am a Full stack developer who loves to ship intelligent and secure software systems. I love learning alot, and even more than that, I love to teach. When I’m not learning or teaching, I love to dress up and take cute photos.",
     image: "/images/about-me.jpg",
     stats: [
-      { label: "Focus", value: "Frontend + Full-Stack" },
+      { label: "Focus", value: "Frontend + Full-Stack + AI" },
       { label: "Interest", value: "AI-Powered Products" },
       { label: "Goal", value: "Internships & Junior Roles" },
     ],
@@ -29,7 +29,7 @@ export const aboutData = {
     },
     {
       title: "What I Enjoy",
-      text: "I genuinely enjoy frontend development, solving practical product problems, and exploring AI systems that can improve everyday experiences.",
+      text: "I genuinely enjoy web app development, solving practical product problems, and exploring AI systems that can improve everyday experiences.",
     },
   ],
 
