@@ -18,7 +18,7 @@ const skillGroups = [
   {
     title: "Data Cleansing and Analysis",
     description: "Working with data to train AI models",
-    skills: [ "Data Analysis", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Kaggle" ],
+    skills: [ "Pandas", "NumPy", "Matplotlib", "Seaborn", "Kaggle" ],
   },
   {
     title: "AI / ML",
