@@ -3,7 +3,7 @@ export const CONTACTS = {
   github: "https://github.com/globaloma",
   linkedin: "https://www.linkedin.com/in/chioma-egbo-096345246",
   twitter: "https://twitter.com/global_omaa",
-  resume: "/resume.pdf",
+  resume: "/chioma_egbo_cv.pdf",
 };
 
 export const SITE_CONFIG = {
